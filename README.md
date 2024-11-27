@@ -1,9 +1,5 @@
 # XMeme
-## Backend for a simple Meme posting platform in Java
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+## ✨ Backend for a simple Meme posting platform in Java ✨
 
 ## Features
 1. OOPs concepts implemented using Springboot
